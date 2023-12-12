@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @russellcampbell88
-- 👀 I’m interested in working out
+- 👀 I’m interested in exercise.
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on iOS Development
 - 📫 How to reach me - private message
